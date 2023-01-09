@@ -4,7 +4,7 @@
     <img src='poster.jpg' width='250' height='350'>
 </p>
 
-[지속가능한 에너지 활용을 위한 인공지능 경진대회: Track1 에너지 인공지능 경진대회](https://aifactory.space/competition/detail/2083)에서 Leaderboard score (5등 / 41팀)을 달성한 결과물입니다.
+[지속가능한 에너지 활용을 위한 인공지능 경진대회: Track1 에너지 인공지능 경진대회](https://aifactory.space/competition/detail/2083)에서 Leaderboard Score (5등 / 41팀)을 달성한 결과물입니다.
 
 ## 대회 주제 소개
 - KETI의 연구개발 및 한국서부발전(주)의 신재생 에너지 발전 실증 데이터에 기반한 인공지능 경진대회 운영을 통해 지속 가능한 인공지능 에너지 활용 모델 및 실용 아이디어를 도출하고자 합니다. 아래와 같이 2개의 Track으로 나뉘어져 진행됩니다 :
@@ -60,6 +60,9 @@ def NMAE(true, pred, nominal):
 - `KETI_경진대회_감자샐러드.json`을 `brights-studio`에 불러들여 실행하시면 됩니다.
 
 ## 느낀점
+처음 나간 경진대회에서 LeaderBoard Score는 상위권에 달성했지만 수상을 하지 못해 매우 아쉽다고 생각한다.<br>
+경진대회 데이터처럼 전처리 과정이 매우 복잡한 것은 처음 경험하여 부족함을 많이 느꼈다...<br>
+태양광 발전량은 어느정도 예측이 되었으나 풍력 발전량은 예측이 매우 힘들어 error값이 높게 나와 매우 아쉬웠고, 추후 해당 프로젝트를 발전시켜 좀 더 정확한 예측을 해보고자 한다.
 
 ## 문의
 코드 및 발표자료에 대해 궁금한 점이 있으실 경우 lhk6565@naver.com으로 문의해주시면 답변드리겠습니다.:blush:<br>
