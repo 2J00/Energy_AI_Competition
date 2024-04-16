@@ -5,10 +5,7 @@
 </p>
 
 [지속가능한 에너지 활용을 위한 인공지능 경진대회: Track1 에너지 인공지능 경진대회](https://aifactory.space/competition/detail/2083)에서 Leaderboard Score (5등 / 41팀)을 달성한 결과물입니다.
-- [이형권](https://github.com/lhk6565) (IT경영)
-- 이주영 (산업경영)
-- [장성호](https://github.com/Jjineeq) (산업경영)
-- [박진환](https://github.com/pjh09050) (산업경영)
+
 
 ## 대회 주제 소개
 - KETI의 연구개발 및 한국서부발전(주)의 신재생 에너지 발전 실증 데이터에 기반한 인공지능 경진대회 운영을 통해 지속 가능한 인공지능 에너지 활용 모델 및 실용 아이디어를 도출하고자 합니다. 아래와 같이 2개의 Track으로 나뉘어져 진행됩니다.
